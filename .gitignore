@@ -1,0 +1,5 @@
+.env
+env/
+faiss_index/
+query_with_gemini.py
+cons.pdf
